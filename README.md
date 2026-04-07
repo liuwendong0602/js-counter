@@ -12,4 +12,4 @@
 - JavaScript（DOM操作 + 事件）
 
 ## 预览
-（你的 GitHub Pages 链接）
+https://liuwendong0602.github.io/js-counter/
